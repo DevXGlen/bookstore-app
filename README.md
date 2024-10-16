@@ -52,4 +52,12 @@ Create a symbolic link from the `public/storage` directory to the `storage/app/p
 
 **Run on your terminal:**
 
-`php artisan storage:link`
+`php artisan storage:link`;
+
+
+### Start Local Development Server
+Start local development server and you're good to go!
+
+**Run on your terminal:**
+
+`php artisan serve`
